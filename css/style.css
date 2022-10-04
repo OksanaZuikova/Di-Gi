@@ -902,7 +902,7 @@ ul {
     padding: 30px;
   }
   .portfolio {
-    background-image: url("/images/works-bg.jpg");
+    background-image: url("../images/works-bg.jpg");
   }
   .team {
     height: 479px;
